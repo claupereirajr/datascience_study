@@ -1,0 +1,13 @@
+aula4/
+aula5/
+
+*.vscode
+*.ipynb_checkpoints
+
+__pycache__
+
+*.csv
+*.xlx
+*.xls
+*.xlsx
+*.txt
