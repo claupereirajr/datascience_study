@@ -6,8 +6,14 @@ aula5/
 
 __pycache__
 
+# Ignore data files
 *.csv
 *.xlx
 *.xls
 *.xlsx
 *.txt
+
+# Ignore compress files
+*.zip
+*.tgz
+*.tar
